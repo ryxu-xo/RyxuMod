@@ -1,17 +1,18 @@
-# Ryxu Mod
-A **mini mod** for Geometry Dash by [ryxu-xo](https://github.com/ryxu-xo).
+<div align="center">
+  <!-- Add your mod logo below -->
+  <img src="logo.png" width="180" alt="Ryxu Mod Logo" />
+  
+  <h1>Ryxu Mod</h1>
+  <p>A mini mod menu for Geometry Dash.</p>
 
-![Mod Logo](logo.png)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/release-v1.0.0-blue" />
-  <img src="https://img.shields.io/badge/build-passing-brightgreen" />
-  <img src="https://img.shields.io/badge/license-MIT-orange" />
-  <img src="https://img.shields.io/badge/issues-0%20open-yellow" />
-  <img src="https://img.shields.io/badge/discord-join%20now-brightgreen" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/release-v1.0.0-blue" />
+    <img src="https://img.shields.io/badge/build-passing-brightgreen" />
+    <img src="https://img.shields.io/badge/license-MIT-orange" />
+    <img src="https://img.shields.io/badge/issues-0%20open-yellow" />
+    <img src="https://img.shields.io/badge/discord-join%20now-brightgreen" />
+  </p>
+</div>
 
 ---
 
