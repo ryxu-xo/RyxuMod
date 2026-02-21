@@ -18,7 +18,3 @@
 - Custom menu UI
 - Bugfixes and polish
 - Community suggestions
-
----
-
-*Edit this file to add new changes for future versions.*
