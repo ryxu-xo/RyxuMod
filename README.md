@@ -25,13 +25,16 @@
 - Noclip (ignore death collisions)
 - Show hitboxes (debug collider visualization)
 - Auto checkpoints (auto create checkpoints)
+- Unlock Main Levels (play all main levels)
+- Copy Hack (copy any level)
+- Verify Hack (verify any level)
 
 ---
 
 ## How to Use
 1. Install the .geode package using Geode SDK.
 2. Open Geometry Dash and enjoy the mod features!
-3. Configure settings in-game for overlays, Practice Music Sync, icon unlocker, noclip, and more.
+3. Configure settings in-game for overlays, Practice Music Sync, icon unlocker, noclip, unlock main levels, copy hack, verify hack, and more.
 
 ---
 
