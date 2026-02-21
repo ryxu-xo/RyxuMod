@@ -13,7 +13,3 @@ For help with Ryxu Mod:
 - Ko-fi: [ko-fi.com/ryxu](https://ko-fi.com/ryxu)
 
 If you enjoy the mod, consider supporting me! Donations help keep development going.
-
----
-
-*Edit this file to add more support info or remove if not needed.*
