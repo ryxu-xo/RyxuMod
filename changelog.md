@@ -10,6 +10,9 @@
 - Noclip (ignore death collisions)
 - Show hitboxes (debug collider visualization)
 - Auto checkpoints (auto create checkpoints)
+- Unlock Main Levels (play all main levels)
+- Copy Hack (copy any level)
+- Verify Hack (verify any level)
 
 ---
 
@@ -18,3 +21,7 @@
 - Custom menu UI
 - Bugfixes and polish
 - Community suggestions
+
+---
+
+*Edit this file to add new changes for future versions.*

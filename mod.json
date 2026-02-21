@@ -10,7 +10,7 @@
 	"name": "Ryxu Mod",
 	"version": "v1.0.0",
 	"developer": "ryxu-xo",
-	"description": "A mini mod menu for geometry dash",
+	"description": "A feature-packed, lightweight mod menu for Geometry Dash. Unlock, customize, and enhance your GD experience with powerful toggles and hacks—all in one simple package.",
 	"settings": {
 		"ryxu-title-core": {
 			"type": "title",
@@ -90,6 +90,24 @@
 			"type": "bool",
 			"name": "Auto-Checkpoints",
 			"description": "Automatically place checkpoints after reset",
+			"default": false
+		},
+		"unlock-main-levels": {
+			"type": "bool",
+			"name": "Unlock Main Levels",
+			"description": "Unlock all main levels for play",
+			"default": false
+		},
+		"copy-hack": {
+			"type": "bool",
+			"name": "Copy Hack",
+			"description": "Allow copying any level",
+			"default": false
+		},
+		"verify-hack": {
+			"type": "bool",
+			"name": "Verify Hack",
+			"description": "Allow verifying any level",
 			"default": false
 		}
 	},

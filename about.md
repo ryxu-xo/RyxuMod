@@ -1,5 +1,5 @@
 # Ryxu Mod
-A **mini mod** for Geometry Dash by [ryxu-xo](https://github.com/ryxu-xo).
+A feature-packed, lightweight mod menu for Geometry Dash by [ryxu-xo](https://github.com/ryxu-xo). Unlock, customize, and enhance your GD experience with powerful toggles and hacks—all in one simple package.
 
 ---
 

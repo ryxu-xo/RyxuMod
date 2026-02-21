@@ -3,7 +3,7 @@
   <img src="logo.png" width="180" alt="Ryxu Mod Logo" />
   
   <h1>Ryxu Mod</h1>
-  <p>A mini mod menu for Geometry Dash.</p>
+  <p>A feature-packed, lightweight mod menu for Geometry Dash. Unlock, customize, and enhance your GD experience with powerful toggles and hacks—all in one simple package.</p>
 
   <p>
     <img src="https://img.shields.io/badge/release-v1.0.0-blue" />
