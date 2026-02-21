@@ -5,6 +5,16 @@ A **mini mod** for Geometry Dash by [ryxu-xo](https://github.com/ryxu-xo).
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/release-v1.0.0-blue" />
+  <img src="https://img.shields.io/badge/build-passing-brightgreen" />
+  <img src="https://img.shields.io/badge/license-MIT-orange" />
+  <img src="https://img.shields.io/badge/issues-0%20open-yellow" />
+  <img src="https://img.shields.io/badge/discord-join%20now-brightgreen" />
+</p>
+
+---
+
 ## Features
 - Practice Music Sync unlocker (own the feature, no desync)
 - FPS/CPS overlay with RGB effects
